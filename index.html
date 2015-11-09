@@ -1,22 +1,16 @@
 <!DOCTYPE html>
-<html>
-  <head lang="en">
+<html lang="en">
+<head>
     <meta charset="UTF-8">
-    <title>Votein</title>
-    <!-- build:css -->
-    <link rel="stylesheet" href="css/sass/main.css"/>
-    <!-- endbuild -->
-  </head>
-  <body>
-    <div id="app" />
+    <title></title>
+</head>
+<body>
+<div id="react-app"></div>
+<script src="jspm_packages/system.js"></script>
+<script src="config.js"></script>
+<script>
+    System.import('app.jsx!');
+</script>
 
-    <!-- build:js -->
-    <script src="js/system.js"></script>
-    <script src="js/config.js"></script>
-    <script>
-      System.import('js/app.js!jsx');
-    </script>
-    <!-- endbuild -->
-
-  </body>
+</body>
 </html>
