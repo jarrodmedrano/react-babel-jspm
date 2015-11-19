@@ -28,4 +28,4 @@ render((
             <Route path="login" component={Login} />
         </Route>
     </Router>
-), document.body)
+), document.getElementById('react-app'))
