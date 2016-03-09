@@ -2,6 +2,10 @@
 
 Simple starter for React with ES6, using jspm.io instead of webpack.
 
+##1. Install jspm Server
+
+`npm install -g jspm-server`
+
 ##1. Install jspm CLI:
 
 `npm install jspm -g`
