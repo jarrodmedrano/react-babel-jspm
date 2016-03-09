@@ -1,4 +1,4 @@
-# React with JSPM.io
+#React with JSPM - Easy, Zero Configuration
 
 Simple starter for React with ES6, using jspm.io instead of webpack.
 
