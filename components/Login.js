@@ -3,7 +3,7 @@ import React from 'react';
 let Login = React.createClass({
 
     render() {
-        return(<div>Welcome to login</div>);
+        return(<h1>Login Route</h1>);
     }
 });
 

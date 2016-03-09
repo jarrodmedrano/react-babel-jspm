@@ -3,8 +3,8 @@ import { render } from 'react-dom'
 
 // First we import some components...
 import { Router, Route, Link } from 'react-router'
-import Hero from 'components/hero.jsx!'
-import Login from 'components/login.jsx!'
+import Hero from 'components/hero'
+import Login from 'components/login'
 
 const App = React.createClass({
     render() {
