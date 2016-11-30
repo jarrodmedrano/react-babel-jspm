@@ -10,6 +10,8 @@
 *.vi
 *~
 *.sass-cache
+*/build.js
+*/build.js.map
 
 # OS or Editor folders
 .DS_Store
