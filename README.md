@@ -12,4 +12,4 @@ Simple starter for React with ES6, using jspm.io instead of webpack.
 
 ##5. Run jspm server
 
-`npm start`
+`npm run start`

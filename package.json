@@ -9,7 +9,7 @@
   "scripts": {
     "postinstall": "jspm install",
     "start": "node server",
-    "build": "jspm bundle app --inject --minify"
+    "build": "jspm bundle js/app --inject --minify"
   },
   "author": "jmedran@gmail.com",
   "jspm": {
