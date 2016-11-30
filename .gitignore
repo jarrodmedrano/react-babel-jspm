@@ -1,2 +1,42 @@
-jspm_packages
-.idea
+# Numerous always-ignore extensions
+*.idea
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tags
+.tmproj
+nbproject
+Thumbs.db
+tags
+
+# NPM packages folder.
+node_modules/
+src/jspm_packages/
+
+# Brunch folder for temporary files.
+tmp/
+
+# Brunch output folder.
+public/
+
+# Bower stuff.
+bower_components/
+
+# API Docs
+docs/api/
+
+# DotEnv
+.env
